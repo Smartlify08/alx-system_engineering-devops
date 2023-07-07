@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:staff __hello
+chown --deference vincent:staff __hello
