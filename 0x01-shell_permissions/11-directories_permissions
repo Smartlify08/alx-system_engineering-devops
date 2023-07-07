@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive --preserve-root 755 .
+chmod --recursive --preserve-root 755
