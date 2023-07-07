@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --deference vincent:staff __hello
+sudo chown --deference vincent:staff __hello
